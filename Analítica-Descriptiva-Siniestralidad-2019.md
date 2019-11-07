@@ -51,24 +51,27 @@
 #
 #
 ## 1.Introducción
-
->## 1.1. Motivación
 Según los lineamientos contenidos en el Decenio de Acción para la Seguridad Vial de la OMS, el mejoramiento de las condiciones de seguridad vial se debe trabajar a través de 5 ejes fundamentales: Fortalecimiento Institucional, Comportamiento Humano, Vehículos Seguros, Infraestructura Segura y Atención a Víctimas. El Municipio de Medellín, demostrando un alto nivel de compromiso en el trabajo por la seguridad vial, adoptó en el año 2014 el Plan de Movilidad Segura 2014-2020, el cuál mediante el diseño y definición de múltiples estrategias a través de sus 5 componentes, tiene como objetivo la reducción de víctimas fatales en incidentes de tránsito en un 25% para el año 2020. 
 
 Gracias al trabajo interdisciplinar y a las diversas estrategias ejecutadas por la Secretaría de Movilidad, Medellín se ha convertido en un referente nacional en seguridad vial, obteniendo por parte de la Agencia Nacional de Seguridad Vial en el 2018 el reconocimiento como la ciudad capital con mayor reducción de fallecidos en hechos viales.
 
 Una de las estrategias fundamentales comprende el análisis detallado de la información registrada en los Informes Policiales de Accidentes de Tránsito para los casos de mortalidad, de modo que permitan identificar patrones o tendencias que faciliten el desarrollo de estrategias que permitan continuar disminuyendo la ocurrencia de eventos fatales.
 
-Para este fin se hace necesario el uso e implementación de herramientas analíticas avanzadas para procesar grandes volúmenes de información, correlación bases de datos y generar análisis multivariados que brinden nuevas perspectivas sobre como atacar el problema de seguridad vial en Medellín. 
+Para este fin se hace necesario el uso e implementación de herramientas analíticas avanzadas para procesar grandes volúmenes de información, correlación bases de datos y generar análisis multivariados que brinden nuevas perspectivas sobre como atacar el problema de seguridad vial en Medellín.
 #
 #
->## 1.2. Motivación
+>## 1.1. Motivación
 Durante el curso de Analítica de Datos Predictiva fue posible conocer técnicas estadísticas que facilitan el cálculo de pronósticos tomando la información de incidentes viales en la ciudad, utilizando para tal fin tanto estadística descriptiva como probabilística.
 Mediante la aplicación de estas técnicas se pretende crear una herramienta descriptiva que sirva de base para la visualización de la información y permita realizar análisis correlacionando múltiples variables y que posibiliten la creación de un sistema predictivo sobre los casos de mortalidad en incidentes viales.
 A continuación se indican los principales productos de este trabajo:
 1. Código de ejecución del modelo.
 2. Reporte que contenga el entendimiento desarrollado en el trabajo.
 3. Visualización de los datos y la predicción del modelo
+#
+#
+>## 1.2. Metodología
+#
+#
 #
 ## 2.Desarrollo
 
