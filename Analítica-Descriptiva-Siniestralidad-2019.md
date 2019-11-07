@@ -104,3 +104,52 @@ Se inicia leyendo los archivos de excel para crear un dataframe de pandas que co
 Index |Fecha Ocurrencia	|Hora Ocurrencia	|Edad Víctima	|Sexo	|Clase de Accidente	|Condición Víctima	|Vehículo Víctima o vehículo que atropella	|Dirección Ocurrencia	|Prueba Embriaguez|	Empresa Servicio Público	|Fecha Levantamiento	|Lugar de Inspección	|Servicio Publico o Particular	|Muertes	|Rango de Edades
 
 A continuacion se realiza una limpieza sobre los 3305 registros existentes, rellenando los registros sin iniformacion  con null y unificando las categorias de cada campo.
+#
+>>### 2.3.2. Análisis descriptivo de los datos
+
+Posterior a la exploración de cada variable, se realizó análisis descriptivo para identificar el comportamiento de factores relacionados con la mortalidad por siniestros viales en Medellín, donde se realizaron los respectivos agrupamiento de los campos, para luego proceder con la elaboración de graficos. Los resultados obtenidos se engloban en los siguientes titulos que corresponden a los cadigos elaborados en Python:
+
+>>>-Descriptiva de Muertes
+
+>>### 2.3.3. Tratamiento de datos atípicos
+
+Se realizó exploración de los valores de cada una de las variables tomándose la siguiente decisión:
+
+1. Para valores ilegítimos o inusuales, se realizaron análisis sin incluirlos.
+2. Para valores mal registrados o vacios, se rellenaron los registros unificando las categorias de cada campo.
+
+
+>## 2.4. Modelación de los datos
+
+El modelo descriptivo propuesto en esta fase permitirá determinar la tendencia de los datos en el tiempo y su distribución de acuerdo las condiciones de las victimas y el lugar de ocurrencia de los hechos. Con ello se podrán estimar diferencias, asociaciones  y dependencias entre los datos.
+#
+#
+
+## 3. Conclusiones
+
+Los accidentes de tránsito constituyen un problema emergente de salud pública en los países en vías de desarrollo, donde la morbilidad y mortalidad van de la mano con el incremento desmesurado del parque automotor y una desordenada urbanización.
+
+La mortalidad por accidentes viales en Medellín ha mostrado una reducción de casos, pasando de 327 en 2008 a 234 en 2018; sin embargo, estas cifras no pueden dar la falsa ilusión de mejoría en la problemática, ya que se debe relacionar este resultado con las personas que no fallecen en los incidentes, pues están quedan con secuelas que limitan su calidad de vida y generan grandes costos para el sistema de salud y para la economía familiar, además de limitar el crecimiento económico, ya que la mayoría de accidentados se encuentran en edad productiva. El gran número de casos fatales generalmente se asocia a accidentes de tránsito en donde están involucrados vehículos de transporte masivo como: minibuses, buses y camiones.
+
+La mayor frecuencia de mortalidad se observó en motociclistas y peatones, dos grupos que deben ser intervenidos de forma especial. De acuerdo al día de la semana, la mayor cantidad de incidentes se registran los fines de semana, por tanto se requieren medidas enfocadas a dichos periodos de tiempo, donde se profundice en educación y se implementen mayores medidas de control.
+
+En una fase siguiente del presente proyecto se sugiere incluir información adicional proveniente de lesionados en incidentes viales y factores socioeconómicos relacionados, de tal forma que se puede realizar seguimiento al problema de la acidentalidad víal y sus casos, teniendo en cuenta los condicionantes y no solo una parte del resultado, como es la mortalidad (punta del iceberg).
+
+Los sistemas de información deben integrarse para proporcionar información confiable a las instituciones nacionales involucradas en esta problemática, de manera que sirvan de referencia para futuras decisiones políticas.
+
+De esta forma la administración municipal podrá tomar decisiones basadas en evidencia, donde puede perfilar y relacionar las caracteríticas de las personas accidentadas con la evolución de su caso, desde sus factores de condiciones de vida, el estado de salud resultante del incidente vial y el desenlace de mortalidad por dicha causa. Es necesario consolidar una cultura de seguridad vial que nos permita reducir al máximo la siniestralidad y sus trágicas consecuencias.
+
+
+#
+#
+## 4. Bibliografía
+
+1. 	IBM Corporation. Manual CRISP-DM de IBM SPSS Modeler. Estados Unidos; 2012. 56 p. 
+
+2. 	WHO. Plan Mundial para el Decenio de Acción para la Seguridad Vial 2011–2020. Washington D. C.; 2011. 25 p. 
+
+3. 	Grisales Romero H. Estadística aplicada en salud pública: estadística descriptiva y probabilidad. Universidad de Antioquia, Facultad Nacional de Salud Pública; 2002. 143 p. 
+
+4. 	Inicio - Secretaría de Movilidad de Medellín [Internet]. [citado 2 de octubre de 2019]. Disponible en: https://www.medellin.gov.co/movilidad/
+5. 	Alcaldía de Medellín | Subportal del Ciudadano | Salud | Indicadores y Estadísticas | Indicadores Básicos de Salud [Internet]. [citado 21 de octubre de 2019]. Disponible en: https://www.medellin.gov.co/irj/portal/medellin?NavigationTarget=navurl://3f40db33f42ecd22dc70ed0867e9b30
+
