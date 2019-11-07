@@ -63,7 +63,7 @@ Para este fin se hace necesario el uso e implementación de herramientas analít
 #
 #
 >## 1.2. Motivación
-Durante el curso de Analítica de Datos Predictiva fue posible conocer técnicas estadísticas que facilitaban el cálculo de pronósticos de tomando la información de incidentes viales en la ciudad, utilizando tanto estadística descriptiva como probabilística.
+Durante el curso de Analítica de Datos Predictiva fue posible conocer técnicas estadísticas que facilitan el cálculo de pronósticos tomando la información de incidentes viales en la ciudad, utilizando para tal fin tanto estadística descriptiva como probabilística.
 Mediante la aplicación de estas técnicas se pretende crear una herramienta descriptiva que sirva de base para la visualización de la información y permita realizar análisis correlacionando múltiples variables y que posibiliten la creación de un sistema predictivo sobre los casos de mortalidad en incidentes viales.
 A continuación se indican los principales productos de este trabajo:
 1. Código de ejecución del modelo.
