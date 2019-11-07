@@ -86,7 +86,7 @@ Tomando en cuenta la problematica enunciada, se plantea el desarrollo de este pr
 #
 #
 >## 2.2. Identificación de los datos
-Para este proyecto se utilizó la base de datos enaviada por el consorcio contratista SIMM, el cual es el encargados de transcribir la información levantada por los Agentes de Tránsito con funciones de Policía Judicial en la vía, esta base de datos se viene diligenciando en formato excel desde el año 2008 al 18 de agosto de 2019, el libro de excel esta compuesto de doce hojas, una para cada año correspondiente.  link a los archivos de excel.
+Para este proyecto se utilizó la base de datos enviada por el consorcio contratista SIMM, el cual es el encargado de transcribir la información levantada por los Agentes de Tránsito con funciones de Policía Judicial en la vía, esta base de datos se viene diligenciando en formato excel desde el año 2008 al 18 de agosto de 2019, el libro de excel esta compuesto de doce hojas, una para cada año correspondiente.  link a los archivos de excel.
 
 La estructura de la tabla en excel es la siguiente:
 
@@ -96,10 +96,10 @@ Se realizo la respectiva anonimización de los datos de forma manual, en el arch
 #
 #
 >## 2.3. Descripción del conjunto de datos
-El lenguaje de programación que se utilizara es Python, Para la limpieza de datos, los paquetes pandas, openpyxl, numpy y datetime; para el análisis de la información se utilizará los paquetes pandas;  para visualización se usan seaborn, folium; para geocodificación se usará el paquete geocoder y para estimar los modelos rpart y rpart.plot.
+El lenguaje de programación que se utilizara es Python, Para la limpieza de datos, los paquetes pandas, openpyxl, numpy y datetime; para el análisis de la información se utilizará los paquetes pandas;  para visualización se usan seaborn, folium; para geocodificación se usará el paquete geocoder y para estimar los modelos sklearn.linear_model.
 #
 >>### 2.3.1. Limpieza y resumen de los datos
-Se inicia leyendo los archivos de excel para crear un dataframe de pandas que concatene las hojas existentes del libro que contiene la base de datos, este arcivo se llama MUERTOS.xlsx. Luego de esto se crea un dataframe donde se renombran algunas columnas y se eliminan otras inecesaria para los fines de este proyecto, quedando la siguiente estructura de data frame
+Se inicia leyendo los archivos de excel para crear un dataframe de pandas que concatene las hojas existentes del libro que contiene la base de datos, este archivo se llama MUERTOS.xlsx. Luego de esto se crea un dataframe donde se renombran algunas columnas y se eliminan otras inecesaria para los fines de este proyecto, quedando la siguiente estructura de data frame
 
 Index |Fecha Ocurrencia	|Hora Ocurrencia	|Edad Víctima	|Sexo	|Clase de Accidente	|Condición Víctima	|Vehículo Víctima o vehículo que atropella	|Dirección Ocurrencia	|Prueba Embriaguez|	Empresa Servicio Público	|Fecha Levantamiento	|Lugar de Inspección	|Servicio Publico o Particular	|Muertes	|Rango de Edades
 
@@ -109,7 +109,8 @@ A continuacion se realiza una limpieza sobre los 3305 registros existentes, rell
 
 Posterior a la exploración de cada variable, se realizó análisis descriptivo para identificar el comportamiento de factores relacionados con la mortalidad por siniestros viales en Medellín, donde se realizaron los respectivos agrupamiento de los campos, para luego proceder con la elaboración de graficos. Los resultados obtenidos se engloban en los siguientes titulos que corresponden a los cadigos elaborados en Python:
 
->>>-Descriptiva de Muertes. [Ver codigo](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/DESCRIPTIVA%20DE%20MUERTES.ipynb)
+>>>-Descriptiva de Muertes.[Ver código](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/DESCRIPTIVA%20DE%20MUERTES.ipynb) 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>[Ver gráfica](http://localhost:8888/view/TRABAJO%20ANALITICA/Muertes_Anuales.png)
 
 >>### 2.3.3. Tratamiento de datos atípicos
 
