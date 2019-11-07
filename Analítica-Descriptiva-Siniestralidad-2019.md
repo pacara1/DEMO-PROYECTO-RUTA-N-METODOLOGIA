@@ -109,7 +109,7 @@ A continuacion se realiza una limpieza sobre los 3305 registros existentes, rell
 
 Posterior a la exploración de cada variable, se realizó análisis descriptivo para identificar el comportamiento de factores relacionados con la mortalidad por siniestros viales en Medellín, donde se realizaron los respectivos agrupamiento de los campos, para luego proceder con la elaboración de graficos. Los resultados obtenidos se engloban en los siguientes titulos que corresponden a los cadigos elaborados en Python:
 
->>>-Descriptiva de Muertes. [Ver codigo](DESCRIPTIVA DE MUERTES.ipynb)
+>>>-Descriptiva de Muertes. [Ver codigo](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/DESCRIPTIVA%20DE%20MUERTES.ipynb)
 
 >>### 2.3.3. Tratamiento de datos atípicos
 
