@@ -109,11 +109,11 @@ Se realizo la respectiva anonimización de los datos de forma manual, en el arch
 El lenguaje de programación que se utilizara es Python, Para la limpieza de datos, los paquetes pandas, openpyxl, numpy y datetime; para el análisis de la información se utilizará los paquetes pandas;  para visualización se usan seaborn, folium; para geocodificación se usará el paquete geocoder y para estimar los modelos sklearn.linear_model.
 #
 >>### 2.3.1. Limpieza y resumen de los datos
-Se inicia leyendo los archivos de excel para crear un dataframe de pandas que concatene las hojas existentes del libro que contiene la base de datos, este archivo se llama MUERTOS.xlsx. Luego de esto se crea un dataframe donde se renombran algunas columnas y se eliminan otras inecesaria para los fines de este proyecto, quedando la siguiente estructura de data frame
+Se inicia leyendo los archivos de excel para crear un dataframe de pandas que concatene las hojas existentes del libro que contiene la base de datos, este archivo se llama MUERTOS.xlsx.[Ver archivo](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/files/MUERTOS.xlsx) Luego de esto se crea un dataframe donde se renombran algunas columnas y se eliminan otras inecesaria para los fines de este proyecto, quedando la siguiente estructura de data frame
 
 Index |Fecha Ocurrencia	|Hora Ocurrencia	|Edad Víctima	|Sexo	|Clase de Accidente	|Condición Víctima	|Vehículo Víctima o vehículo que atropella	|Dirección Ocurrencia	|Prueba Embriaguez|	Empresa Servicio Público	|Fecha Levantamiento	|Lugar de Inspección	|Servicio Publico o Particular	|Muertes	|Rango de Edades
 
-A continuacion se realiza una limpieza sobre los 3305 registros existentes, rellenando los registros sin iniformacion  con null y unificando las categorias de cada campo.
+A continuacion se realiza una limpieza sobre los 3305 registros existentes, rellenando los registros sin iniformacion  con null y unificando las categorias de cada campo.[Ver código](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/PREPARACI%C3%93N%20DE%20DATOS%20(ETL).ipynb)
 #
 >>### 2.3.2. Análisis descriptivo de los datos
 
@@ -139,21 +139,19 @@ Posterior a la exploración de cada variable, se realizó análisis descriptivo 
 #
 >>>-GEORREFERENCIACION DE MUERTES.[Ver código](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/GEORREFERENCIACION%20DE%20MUERTES.ipynb) 
 [Ver gráfica](http://localhost:8888/view/TRABAJO%20ANALITICA/georefMUERTESMedell%C3%ADn%202018.html)
-
-
-
-
+#
+#
 >>### 2.3.3. Tratamiento de datos atípicos
 
 Se realizó exploración de los valores de cada una de las variables tomándose la siguiente decisión:
 
 1. Para valores ilegítimos o inusuales, se realizaron análisis sin incluirlos.
 2. Para valores mal registrados o vacios, se rellenaron los registros unificando las categorias de cada campo.
-
+#
 
 >## 2.4. Modelación de los datos
 
-El modelo descriptivo propuesto en esta fase permitirá determinar la tendencia de los datos en el tiempo y su distribución de acuerdo las condiciones de las victimas y el lugar de ocurrencia de los hechos. Con ello se podrán estimar diferencias, asociaciones  y dependencias entre los datos.
+El modelo predictivo que se corrio fue una regresión lineal, usando sklearn.linear_model, los resultados obtenidos no fueron significativos y con poca utilidad práctica. no obstante, podria seguirse experimentando con la contrastación de variables y la aplicación de modelos de machine learning, toda vez que en existen variadas experiencias en el medio, que muestran con exito el desarrollo de modelos orientados a la prediccion de accidentes y de tiempos de viajes. [Ver código](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/REGRESI%C3%93N%20LINEAL.ipynb)
 #
 #
 
