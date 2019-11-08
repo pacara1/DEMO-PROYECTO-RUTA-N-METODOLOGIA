@@ -115,20 +115,20 @@ Posterior a la exploración de cada variable, se realizó análisis descriptivo 
 >>>-GRAFICOS POR FRANJA HORARIA.[Ver código](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/GRAFICOS%20POR%20FRANJA%20HORARIA.ipynb) 
 [Ver gráfica](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/Muertes_Franja_Horaria.png)
 #
->>>-GRÁFICOS CLASE DE ACCIDENTE.[Ver código](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/DESCRIPTIVA%20DE%20MUERTES.ipynb) 
-[Ver gráfica](http://localhost:8888/view/TRABAJO%20ANALITICA/Muertes_Anuales.png)
+>>>-GRÁFICOS CLASE DE ACCIDENTE.[Ver código](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/GR%C3%81FICOS%20CLASE%20DE%20ACCIDENTE.ipynb) 
+[Ver gráfica](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/Muertes_Clase_Accidente_Anual.png)
 #
->>>-GRAFICOS POR FRANJA HORARIA.[Ver código](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/DESCRIPTIVA%20DE%20MUERTES.ipynb) 
-[Ver gráfica](http://localhost:8888/view/TRABAJO%20ANALITICA/Muertes_Anuales.png)
+>>>-GRÁFICOS CONDICION VICTIMA.[Ver código](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/GR%C3%81FICOS%20CONDICION%20VICTIMA.ipynb) 
+[Ver gráfica](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/Muertes_Condici%C3%B3n_V%C3%ADctima.png)
 #
->>>-GRAFICOS POR FRANJA HORARIA.[Ver código](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/DESCRIPTIVA%20DE%20MUERTES.ipynb) 
-[Ver gráfica](http://localhost:8888/view/TRABAJO%20ANALITICA/Muertes_Anuales.png)
+>>>-GRÁFICOS MUERTES POR EDADES Y SEXO.[Ver código](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/GR%C3%81FICOS%20MUERTES%20POR%20EDADES.ipynb) 
+[Ver gráfica](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/piramideMedell%C3%ADn%202019.png)
 #
->>>-GRAFICOS POR FRANJA HORARIA.[Ver código](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/DESCRIPTIVA%20DE%20MUERTES.ipynb) 
-[Ver gráfica](http://localhost:8888/view/TRABAJO%20ANALITICA/Muertes_Anuales.png)
+>>>-GRÁFICOS VEHIC VICTIMA_VEHIC ATROPELLA.[Ver código](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/GR%C3%81FICOS%20VEHIC%20VICTIMA_VEHIC%20ATROPELLA.ipynb) 
+[Ver gráfica](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/Muertes_Veh%C3%ADculo_V%C3%ADctima.png)
 #
->>>-GRAFICOS POR FRANJA HORARIA.[Ver código](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/DESCRIPTIVA%20DE%20MUERTES.ipynb) 
-[Ver gráfica](http://localhost:8888/view/TRABAJO%20ANALITICA/Muertes_Anuales.png)
+>>>-GEORREFERENCIACION DE MUERTES.[Ver código](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/GEORREFERENCIACION%20DE%20MUERTES.ipynb) 
+[Ver gráfica](http://localhost:8888/view/TRABAJO%20ANALITICA/georefMUERTESMedell%C3%ADn%202018.html)
 
 
 
