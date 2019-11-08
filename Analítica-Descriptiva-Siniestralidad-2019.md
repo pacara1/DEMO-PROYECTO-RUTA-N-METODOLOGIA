@@ -2,9 +2,9 @@
 #
 #
 >>>>>>>>>### Paolo Andrés Camacho Ramírez
+>>>>>>>>>### William Zapata Jaramillo
 >>>>>>>>>### Michael Gómez Lopera
->>>>>>>>>### Eduardo Santacruz
->>>>>>>>>### William Zapata
+>>>>>>>>>### Eduardo Santacruz Sanmartín
 ###
 ###
 >>>>>### Estudiantes Curso Analitica Predictiva con Python
@@ -14,6 +14,16 @@
 #
 #
 ## Resumen
+
+Actualmente en el mpio de Medellín se generan gran cantidad de registros de información que se están acumulando, pero que no se alcanzan a analizar para la planeación y la toma de decisiones.
+
+Uno de los puntos más importantes es la accidentalidad vehicular y la mortalidad que se presenta constantemente en la ciudad por la cantidad de medios de transporte que actualmente tiene la ciudad de Medellín.
+
+Este trabajo busca generar el análisis de la información de la mortalidad que se presentan en los hechos vehiculares con el propósito de tener una herramienta que por lo menos cree herramientas para análisis y la toma de decisiones en la ciudad de Medellín.
+
+En este trabajo utilizar la información de la accidentalidad vehicular en el municipio de Medellín para  años anteriores con el fin de pronosticar la frecuencia de accidentes agrupada según su tipo.
+
+Utilizamos las herramientas descriptivas en phyton con este trabajo para crear una herramienta que sirva como base para analizar la problemática en la ciudad de Medellín.
 #
 
 ## Tabla de Contenido
@@ -110,7 +120,7 @@ A continuacion se realiza una limpieza sobre los 3305 registros existentes, rell
 Posterior a la exploración de cada variable, se realizó análisis descriptivo para identificar el comportamiento de factores relacionados con la mortalidad por siniestros viales en Medellín, donde se realizaron los respectivos agrupamiento de los campos, para luego proceder con la elaboración de graficos. Los resultados obtenidos se engloban en los siguientes titulos que corresponden a los cadigos elaborados en Python:
 
 >>>-Descriptiva de Muertes.[Ver código](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/DESCRIPTIVA%20DE%20MUERTES.ipynb) 
-[Ver gráfica](http://localhost:8888/view/TRABAJO%20ANALITICA/Muertes_Anuales.png)
+[Ver gráfica](http://localhost:8888/view/TRABAJO%20ANALITICA/Muertes_Anuales.png)[Ver gráfica](http://localhost:8888/view/TRABAJO%20ANALITICA/Muertes_Mensuales.png)[Ver gráfica](http://localhost:8888/view/TRABAJO%20ANALITICA/Muertes_Dia_Semana.png)
 #
 >>>-GRAFICOS POR FRANJA HORARIA.[Ver código](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/GRAFICOS%20POR%20FRANJA%20HORARIA.ipynb) 
 [Ver gráfica](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/Muertes_Franja_Horaria.png)
