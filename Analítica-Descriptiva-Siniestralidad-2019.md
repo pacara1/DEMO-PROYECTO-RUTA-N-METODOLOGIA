@@ -110,7 +110,28 @@ A continuacion se realiza una limpieza sobre los 3305 registros existentes, rell
 Posterior a la exploración de cada variable, se realizó análisis descriptivo para identificar el comportamiento de factores relacionados con la mortalidad por siniestros viales en Medellín, donde se realizaron los respectivos agrupamiento de los campos, para luego proceder con la elaboración de graficos. Los resultados obtenidos se engloban en los siguientes titulos que corresponden a los cadigos elaborados en Python:
 
 >>>-Descriptiva de Muertes.[Ver código](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/DESCRIPTIVA%20DE%20MUERTES.ipynb) 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>[Ver gráfica](http://localhost:8888/view/TRABAJO%20ANALITICA/Muertes_Anuales.png)
+[Ver gráfica](http://localhost:8888/view/TRABAJO%20ANALITICA/Muertes_Anuales.png)
+#
+>>>-GRAFICOS POR FRANJA HORARIA.[Ver código](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/GRAFICOS%20POR%20FRANJA%20HORARIA.ipynb) 
+[Ver gráfica](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/Muertes_Franja_Horaria.png)
+#
+>>>-GRÁFICOS CLASE DE ACCIDENTE.[Ver código](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/DESCRIPTIVA%20DE%20MUERTES.ipynb) 
+[Ver gráfica](http://localhost:8888/view/TRABAJO%20ANALITICA/Muertes_Anuales.png)
+#
+>>>-GRAFICOS POR FRANJA HORARIA.[Ver código](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/DESCRIPTIVA%20DE%20MUERTES.ipynb) 
+[Ver gráfica](http://localhost:8888/view/TRABAJO%20ANALITICA/Muertes_Anuales.png)
+#
+>>>-GRAFICOS POR FRANJA HORARIA.[Ver código](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/DESCRIPTIVA%20DE%20MUERTES.ipynb) 
+[Ver gráfica](http://localhost:8888/view/TRABAJO%20ANALITICA/Muertes_Anuales.png)
+#
+>>>-GRAFICOS POR FRANJA HORARIA.[Ver código](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/DESCRIPTIVA%20DE%20MUERTES.ipynb) 
+[Ver gráfica](http://localhost:8888/view/TRABAJO%20ANALITICA/Muertes_Anuales.png)
+#
+>>>-GRAFICOS POR FRANJA HORARIA.[Ver código](https://github.com/pacara1/DEMO-PROYECTO-RUTA-N-METODOLOGIA/blob/master/TRABAJO%20ANALITICA/DESCRIPTIVA%20DE%20MUERTES.ipynb) 
+[Ver gráfica](http://localhost:8888/view/TRABAJO%20ANALITICA/Muertes_Anuales.png)
+
+
+
 
 >>### 2.3.3. Tratamiento de datos atípicos
 
