@@ -80,6 +80,13 @@ A continuación se indican los principales productos de este trabajo:
 #
 #
 >## 1.2. Metodología
+Se utilizó la medtodologia CRISP-DM para desarrollar este proyecto, la cual esta basada en los siguientes pasos:
+-Paso 1: Definición del problema de negocio
+-Paso 2: Definición del problema de analitica
+-Paso 3: Datos
+-Paso 4: Selección de la metodología
+-Paso 5: Construcción del modelo
+-Paso 6: Implementación del Modelo
 #
 #
 #
